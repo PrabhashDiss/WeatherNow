@@ -1,0 +1,11 @@
+{
+    "name": "WeatherNow",
+    "version": "1.0.0",
+    "description": "Get instant weather updates for your current location.",
+    "manifest_version": 3,
+    "author": "Your Name",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "WeatherNow"
+    }
+}
